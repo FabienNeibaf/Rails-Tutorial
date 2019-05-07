@@ -1,24 +1,8 @@
-# README
+# SAMPLE APP
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project aims to give an overview of how rails get rid with static routes.
+It is part of [Microverse](https://www.microverse.org/) curriculum.
 
-Things you may want to cover:
+## Author
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Fabien RAKOTOMAMPIANDRA _https://github.com/FabienNeibaf_
